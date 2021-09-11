@@ -137,4 +137,4 @@ const run = async () => {
 
 run();
 
-app.listen(8080, () => console.log('AdminBro is under localhost:8080/admin'));
+app.listen(8080, () => console.log('Dashboard is under localhost:8080/admin'));
